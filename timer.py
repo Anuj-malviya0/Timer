@@ -9,4 +9,3 @@ print("_" * 80)
 print(" {:^75}".format ("TIME COMPLETED"))
 print("_" * 80)
 a = input()
-
